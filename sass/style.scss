@@ -2,7 +2,7 @@
 
 /* Variables */
 
-$color-light: #fff;
+$color-light: #c7ecee;
 $color-dark: #444;
 
 $font-logo: 'Sacramento', cursive;
@@ -20,7 +20,7 @@ body {
   font-family: $font-text;
   color: $color-dark;
   font-weight: 300;
-  font-size: 16px;
+  font-size: 18px;
   line-height: 1.7;
 }
 
@@ -61,7 +61,7 @@ body {
   margin-right: 10px;
   padding: 40px;
   border: 1px solid $color-dark;
-  border-radius: 5px;
+  border-radius: 8px;
 }
 
 /* Logo */
